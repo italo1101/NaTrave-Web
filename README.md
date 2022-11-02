@@ -29,7 +29,7 @@
 
 http://123.456.789/dashboard
 
-# Tecologias
+# Tecnologias
 
 - [JavaScript](https://www.javascript.com)
 - [ReactJS](https://pt-br.reactjs.org)
