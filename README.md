@@ -13,7 +13,7 @@
 
 <h3 align="center">🚧👷‍♂️Em Construção🚧👷‍♂️</3>
 
-# Images
+# Imagens
 
 ![alt text](public/image/home.png)
 
